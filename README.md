@@ -13,7 +13,7 @@ app.js - Archivo de JavaScript que maneja la lógica del juego.
 <p>1. Clona el repositorio</p>
 
 ```git clone https://github.com/IngRobayo/Amigo-Secreto.git```
-<p>Abre el index.html en un navegador</p>
+<p>2. Abre el index.html en un navegador</p>
 
 <h3>Funcionalidades</h3>
 <p>
