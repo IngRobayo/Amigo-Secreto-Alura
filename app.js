@@ -1,4 +1,4 @@
 
 // El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación. Aquí deberás desarrollar la lógica para resolver el problema.
 
-let nombre = ['Edwin','Santiago','Maria','Loca']
+let nombre = ['Edwin','Santiago','Maria','Leonardo']
