@@ -4,9 +4,9 @@
 
 <h3>Estructura del proyecto</h3>
 <p>
-index.html - Archivo principal con la estructura de la página.
-styles.css - Archivo de estilos para la apariencia de la web.
-app.js - Archivo de JavaScript que maneja la lógica del juego.
+index.html - Archivo principal con la estructura de la página.<br>
+styles.css - Archivo de estilos para la apariencia de la web.<br>
+app.js - Archivo de JavaScript que maneja la lógica del juego.<br>
 </p>
 
 <h3>Intalación y uso</h3>
@@ -17,7 +17,7 @@ app.js - Archivo de JavaScript que maneja la lógica del juego.
 
 <h3>Funcionalidades</h3>
 <p>
-Registro de participantes.
-Asignación aleatoria de amigos secretos.
-Interfaz sencilla y amigable.
+Registro de participantes.<br>
+Asignación aleatoria de amigos secretos.<br>
+Interfaz sencilla y amigable.<br>
 </p>
