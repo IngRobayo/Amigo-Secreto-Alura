@@ -1,4 +1,4 @@
-<h1>Amigo Secreto</h1>
+<h1 align="center">Amigo Secreto</h1>
 <p>Este proyecto es una reto de alura, el cual consiste en crear la logica de un juego de amigo secreto.</p>
 <p>Se ulrilizo HTML, CSS y JavaScript</p>
 
